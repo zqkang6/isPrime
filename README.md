@@ -1,2 +1,2 @@
 # isPrime
-A method for isPrime()
+A method for isPrime() using python
